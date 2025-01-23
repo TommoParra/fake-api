@@ -1,34 +1,274 @@
 {
   "events": [
     {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
+      "id": 101,
+      "category": "education",
+      "title": "Youth Coding Workshop",
+      "description": "Free programming classes for local teenagers.",
+      "location": "Tech Hub Center",
+      "date": "February 15, 2022",
+      "time": "14:00",
+      "organizer": "Byte Builders"
     },
     {
-      "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
+      "id": 102,
+      "category": "health",
+      "title": "Community Wellness Fair",
+      "description": "Free health screenings and wellness resources.",
+      "location": "Harmony Park",
+      "date": "May 7, 2022",
+      "time": "09:00",
+      "organizer": "Wellness Warriors"
+    },
+    {
+      "id": 103,
+      "category": "environment",
+      "title": "Urban Tree Planting",
+      "description": "Help green our city by planting native trees.",
+      "location": "Green Avenue",
+      "date": "April 22, 2022",
       "time": "10:00",
-      "organizer": "Fern Pollin"
+      "organizer": "Urban Roots"
     },
     {
-      "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
+      "id": 104,
+      "category": "social services",
+      "title": "Homeless Care Package Assembly",
+      "description": "Create care packages for local unhoused community members.",
+      "location": "Community Center",
+      "date": "December 10, 2022",
+      "time": "13:00",
+      "organizer": "Compassion Collective"
+    },
+    {
+      "id": 105,
+      "category": "arts",
+      "title": "Community Mural Project",
+      "description": "Collaborative public art painting for neighborhood beautification.",
+      "location": "Downtown Plaza",
+      "date": "June 18, 2022",
       "time": "11:00",
-      "organizer": "Carey Wales"
+      "organizer": "Paint the Town"
+    },
+    {
+      "id": 106,
+      "category": "technology",
+      "title": "Senior Tech Training",
+      "description": "Free digital literacy classes for seniors.",
+      "location": "Library Learning Center",
+      "date": "September 5, 2022",
+      "time": "15:00",
+      "organizer": "Tech Connect"
+    },
+    {
+      "id": 107,
+      "category": "food security",
+      "title": "Community Harvest Festival",
+      "description": "Local food distribution and agricultural education.",
+      "location": "Community Farm",
+      "date": "October 9, 2022",
+      "time": "10:00",
+      "organizer": "Grow Together"
+    },
+    {
+      "id": 108,
+      "category": "youth empowerment",
+      "title": "Teen Leadership Summit",
+      "description": "Workshops and networking for young community leaders.",
+      "location": "Civic Auditorium",
+      "date": "August 20, 2022",
+      "time": "09:00",
+      "organizer": "Future Leaders League"
+    },
+    {
+      "id": 109,
+      "category": "disability support",
+      "title": "Inclusive Sports Day",
+      "description": "Adaptive sports and recreation for individuals with disabilities.",
+      "location": "Community Sports Complex",
+      "date": "May 15, 2022",
+      "time": "11:00",
+      "organizer": "Ability Allies"
+    },
+    {
+      "id": 110,
+      "category": "mental health",
+      "title": "Community Wellness Workshop",
+      "description": "Free mental health resources and support group sessions.",
+      "location": "Healing Center",
+      "date": "November 12, 2022",
+      "time": "14:00",
+      "organizer": "Mind Matters"
+    },
+    {
+      "id": 111,
+      "category": "refugee support",
+      "title": "Cultural Integration Fair",
+      "description": "Resources and support for new community members.",
+      "location": "Multicultural Center",
+      "date": "March 20, 2022",
+      "time": "13:00",
+      "organizer": "Welcome Home"
+    },
+    {
+      "id": 112,
+      "category": "financial literacy",
+      "title": "Money Management Workshops",
+      "description": "Free financial education for young adults.",
+      "location": "Community Bank Hall",
+      "date": "July 16, 2022",
+      "time": "16:00",
+      "organizer": "Fiscal Fitness"
+    },
+    {
+      "id": 113,
+      "category": "language exchange",
+      "title": "Multilingual Community Meetup",
+      "description": "Language learning and cultural exchange event.",
+      "location": "Global Cafe",
+      "date": "February 5, 2022",
+      "time": "18:00",
+      "organizer": "Tongue Twisters"
+    },
+    {
+      "id": 114,
+      "category": "nutrition",
+      "title": "Healthy Cooking Workshop",
+      "description": "Free cooking classes focusing on nutritious meals.",
+      "location": "Community Kitchen",
+      "date": "September 24, 2022",
+      "time": "11:00",
+      "organizer": "Nourish Network"
+    },
+    {
+      "id": 115,
+      "category": "elder care",
+      "title": "Senior Companionship Program",
+      "description": "Community volunteers spending time with isolated seniors.",
+      "location": "Eldercare Center",
+      "date": "April 30, 2022",
+      "time": "10:00",
+      "organizer": "Golden Connections"
+    },
+    {
+      "id": 116,
+      "category": "entrepreneurship",
+      "title": "Small Business Networking Day",
+      "description": "Workshops and networking for local entrepreneurs.",
+      "location": "Innovation Hub",
+      "date": "June 11, 2022",
+      "time": "09:00",
+      "organizer": "Startup Spark"
+    },
+    {
+      "id": 117,
+      "category": "environmental justice",
+      "title": "Climate Action Workshop",
+      "description": "Community strategies for sustainable living.",
+      "location": "Green Community Center",
+      "date": "August 7, 2022",
+      "time": "15:00",
+      "organizer": "Earth Guardians"
+    },
+    {
+      "id": 118,
+      "category": "music",
+      "title": "Community Music Festival",
+      "description": "Free concert featuring local musicians and bands.",
+      "location": "City Park Amphitheater",
+      "date": "May 28, 2022",
+      "time": "17:00",
+      "organizer": "Harmony Project"
+    },
+    {
+      "id": 119,
+      "category": "literacy",
+      "title": "Children's Reading Marathon",
+      "description": "Encouraging reading through fun community events.",
+      "location": "Public Library",
+      "date": "January 15, 2022",
+      "time": "11:00",
+      "organizer": "Book Buddies"
+    },
+    {
+      "id": 120,
+      "category": "veterans support",
+      "title": "Veterans Resource Fair",
+      "description": "Support services and networking for local veterans.",
+      "location": "Community Veterans Hall",
+      "date": "November 11, 2022",
+      "time": "10:00",
+      "organizer": "Home Front Heroes"
+    },
+    {
+      "id": 121,
+      "category": "renewable energy",
+      "title": "Solar Energy Workshop",
+      "description": "Community education on sustainable energy solutions.",
+      "location": "Eco Innovation Center",
+      "date": "October 2, 2022",
+      "time": "14:00",
+      "organizer": "Sun Seekers"
+    },
+    {
+      "id": 122,
+      "category": "conflict resolution",
+      "title": "Community Mediation Training",
+      "description": "Workshops on peaceful communication and problem-solving.",
+      "location": "Peace Center",
+      "date": "March 5, 2022",
+      "time": "13:00",
+      "organizer": "Bridge Builders"
+    },
+    {
+      "id": 123,
+      "category": "digital inclusion",
+      "title": "Free Computer Access Day",
+      "description": "Technology resources for digitally underserved communities.",
+      "location": "Community Tech Lab",
+      "date": "July 9, 2022",
+      "time": "12:00",
+      "organizer": "Digital Bridges"
+    },
+    {
+      "id": 124,
+      "category": "art therapy",
+      "title": "Healing through Creativity Workshop",
+      "description": "Art-based therapeutic sessions for community wellness.",
+      "location": "Wellness Studio",
+      "date": "December 3, 2022",
+      "time": "16:00",
+      "organizer": "Creative Healers"
+    },
+    {
+      "id": 125,
+      "category": "urban agriculture",
+      "title": "Community Garden Expansion",
+      "description": "Collaborative gardening and food sustainability project.",
+      "location": "Urban Farmstead",
+      "date": "April 16, 2022",
+      "time": "09:00",
+      "organizer": "Green Thumb Collective"
+    },
+    {
+      "id": 126,
+      "category": "immigrant support",
+      "title": "Legal Rights Workshop",
+      "description": "Free legal information for immigrant community members.",
+      "location": "Community Justice Center",
+      "date": "February 26, 2022",
+      "time": "15:00",
+      "organizer": "Rights Advocates"
+    },
+    {
+      "id": 127,
+      "category": "wildlife conservation",
+      "title": "Local Ecosystem Protection Day",
+      "description": "Educational workshops and conservation activities.",
+      "location": "Nature Preserve",
+      "date": "September 17, 2022",
+      "time": "10:00",
+      "organizer": "Wildlife Guardians"
     }
   ]
 }
